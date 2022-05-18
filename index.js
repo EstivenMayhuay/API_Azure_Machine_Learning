@@ -2,19 +2,39 @@ const express = require("express");
 const app = express();
 const fetch = require("node-fetch");
 const cors = require("cors");
+const bodyParser = require("body-parser");
 const PORT = process.env.PORT || 3000;
 
 // Cors
 app.use(cors());
 app.options("*", cors());
 
+// parse application form data and json
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+
 // Routes
 app.get("/", (req, res) => {
   res.send("<h1>Welcome to Titanic</h1>");
 });
 
-app.get("/titanic", (req, res) => {
+app.post("/titanic", (req, res) => {
   console.log(req.body);
+
+  const {
+    passengerId,
+    survived,
+    pClass,
+    nameUser,
+    sex,
+    age,
+    sibsp,
+    parch,
+    ticket,
+    fare,
+    cabin,
+    embarked,
+  } = req.body;
 
   const data = {
     Inputs: {
