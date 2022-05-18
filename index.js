@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 // Routes
 app.get("/", (req, res) => {
-  res.send("<h1>Welcome to Titanic</h1>");
+  res.send("<h1>Welcome your API emcody by Machine Learning</h1>");
 });
 
 app.post("/titanic", (req, res) => {
@@ -56,18 +56,18 @@ app.post("/titanic", (req, res) => {
         ],
         Values: [
           [
-            "0",
-            "1",
-            "3",
-            "Steven",
-            "male",
-            "20",
-            "1",
-            "1",
-            "0",
-            "15.7417",
-            "0",
-            "C",
+            passengerId,
+            survived,
+            pClass,
+            nameUser,
+            sex,
+            age,
+            sibsp,
+            parch,
+            ticket,
+            fare,
+            cabin,
+            embarked,
           ],
         ],
       },
