@@ -4,13 +4,16 @@ const fetch = require("node-fetch");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const PORT = process.env.PORT || 3000;
+require("dotenv").config();
 
 // Cors
 app.use(cors());
 app.options("*", cors());
 
+app.use(express.json());
+
 // parse application form data and json
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // Routes
@@ -19,8 +22,6 @@ app.get("/", (req, res) => {
 });
 
 app.post("/titanic", (req, res) => {
-  console.log(req.body);
-
   const {
     passengerId,
     survived,
@@ -75,22 +76,19 @@ app.post("/titanic", (req, res) => {
   };
 
   // Fetching data with the method post
-  fetch(
-    "https://ussouthcentral.services.azureml.net/workspaces/446ceb25bd7c47a3915cb4d8e9a53779/services/86be80ad7e2846e1900e48fcdcc0ed22/execute?api-version=2.0",
-    {
-      method: "POST",
-      body: JSON.stringify(data),
-      headers: {
-        "Content-Type": "application/json",
-        Authorization:
-          "Bearer XujZDtRpX6AJdFGL5NjSHHguE6GGDKOkKQHTGLmVnTEvAQ5ZEoXgi3wrgq4iHAWeKYQgVFVLrdUp1btexEmRhg==",
-        Accept: "application/json",
-      },
-    }
-  )
+  fetch(process.env.URL_AML, {
+    method: "POST",
+    body: JSON.stringify(data),
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: process.env.API_KEY_AML,
+      Accept: "application/json",
+    },
+  })
     .then((res) => res.text())
-    .then((data) => {
-      res.json(JSON.parse(data));
+    .then((body) => {
+      console.log(body);
+      res.json(JSON.parse(body));
     });
 });
 
