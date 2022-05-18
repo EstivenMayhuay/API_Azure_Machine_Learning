@@ -10,8 +10,6 @@ require("dotenv").config();
 app.use(cors());
 app.options("*", cors());
 
-app.use(express.json());
-
 // parse application form data and json
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -87,8 +85,22 @@ app.post("/titanic", (req, res) => {
   })
     .then((res) => res.text())
     .then((body) => {
-      console.log(body);
-      res.json(JSON.parse(body));
+      const data = JSON.parse(body);
+      const value = data.Results.output1.value.Values[0];
+      const objSurvived = {
+        survived: value[0],
+        pclass: value[1],
+        sex: value[2],
+        age: value[3],
+        sibsp: value[4],
+        parch: value[5],
+        fare: value[6],
+        embarked: value[7],
+        scoreLabel: value[8],
+        scoreProbability: value[9],
+      };
+      console.log(objSurvived);
+      res.json(objSurvived);
     });
 });
 
