@@ -1,14 +1,19 @@
 {
   "name": "apiaml",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple API Rest created with Node.js by the cors problem with Azure ML",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon inde.js",
+    "start": "index.js",
+    "dev": "nodemon index.js",
     "test": ""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Machine Learning",
+    "Azure",
+    "Node.js"
+  ],
+  "author": "Estiven Mayhuay",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "2.0.16"
