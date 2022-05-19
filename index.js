@@ -19,6 +19,10 @@ app.get("/", (req, res) => {
   res.send("<h1>Welcome your API emcody by Machine Learning</h1>");
 });
 
+app.get("/test", (req, res) => {
+  res.json({ name: "Estiven" });
+});
+
 app.post("/titanic", (req, res) => {
   const {
     passengerId,
