@@ -12,29 +12,56 @@ This is an API Rest of machine learning. In predictive model.
 
 ### **https://emcodyapiml.herokuapp.com/**
 
-> Show the home of the API
-
 ```http
 method: GET
+```
+
+> Resonse a html
+
+```html
+<h1>Welcome to EMCODY Machine Learning</h1>
 ```
 
 ### **https://emcodyapiml.herokuapp.com/test**
 
-> Show a simple json of test
-
 ```http
 method: GET
 ```
 
-### **https://emcodyapiml.herokuapp.com/titanic**
+> Response with a json
 
-> Return a json object of titanic
+```json
+{
+  "name": "Estiven"
+}
+```
+
+### **https://emcodyapiml.herokuapp.com/titanic**
 
 ```http
 method: POST
 ```
 
-> JSON object
+> Format of the Request
+
+```json
+{
+  "passengerId": "0",
+  "survived": "1",
+  "pClass": "3",
+  "nameUser": "Estiven",
+  "sex": "male",
+  "age": "20",
+  "sibsp": "1",
+  "parch": "1",
+  "ticket": "0",
+  "fare": "15.7417",
+  "cabin": "0",
+  "embarked": "C"
+}
+```
+
+> Response with a json
 
 ```json
 {
@@ -53,13 +80,44 @@ method: POST
 
 ### **https://emcodyapiml.herokuapp.com/cars**
 
-> Return a json object of titanic
-
 ```http
 method: POST
 ```
 
-> JSON object
+> Format of Request
+
+```json
+{
+  "symboling": "0",
+  "normalizedLosses": "0",
+  "make": "saab",
+  "fuelType": "0",
+  "aspiration": "0",
+  "numDoors": "0",
+  "bodyStyle": "sedan",
+  "driveWheels": "0",
+  "engineLocation": "0",
+  "wheelBase": "99.1",
+  "lengthCar": "0",
+  "widthCar": "0",
+  "heightCar": "0",
+  "curbWeight": "0",
+  "engineType": "0",
+  "numCylinders": "0",
+  "engineSize": "121",
+  "fuelSystem": "0",
+  "bore": "0",
+  "stroke": "0",
+  "compressionRatio": "0",
+  "horsepower": "110",
+  "peakRpm": "5250",
+  "cityMpg": "0",
+  "highwayMpg": "28",
+  "price": "15510"
+}
+```
+
+> Response with a json
 
 ```json
 {
