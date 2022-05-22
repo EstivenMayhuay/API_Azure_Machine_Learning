@@ -8,6 +8,10 @@ This is an API Rest of machine learning. In predictive model.
 - Node.js
 - Express.js
 
+## **View**
+
+![home api emcody machine learning](./public/images/view_emcody_ml.png)
+
 ## **Routes**
 
 ### **https://emcodyapiml.herokuapp.com/**
