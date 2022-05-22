@@ -16,6 +16,9 @@ app.use(bodyParser.json());
 // View Engiine
 app.set("view engine", "pug");
 
+// public files
+app.use(express.static("public"));
+
 // Routes
 const titanicRouter = require("./routes/titanic.routes");
 const carsRouter = require("./routes/cars.routes");

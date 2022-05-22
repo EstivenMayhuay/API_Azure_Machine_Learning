@@ -8,6 +8,21 @@ html(lang="en")
     meta(name="author", content="Estiven Mayhuay")
     meta(name="keywords", content="Node.js, API Rest, Machine Learning")
     title EMCODY Machine Learnig
+    link(rel="stylesheet", href="./css/main.css")
+    //- Google Fonts
+    link(rel="preconnect" href="https://fonts.googleapis.com")
+    link(rel="preconnect" href="https://fonts.gstatic.com" crossorigin)
+    link(href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&family=Roboto:wght@400;500;700&display=swap"  rel="stylesheet")
   body 
-    h1 Welcome to the EMCODY Machine Learning API
-    p This app is an API Rest
+    main.main
+      section.home
+        h2.title.title--white Welcome to the EMCODY Machine Learning API
+        p.paragraph.paragraph--white This app is an API Rest that use model predict with machine learning
+      section.titanic
+        h2.title Titanic Model
+        p.image
+          img(src="./images/titanic_model.png", alt="Titanic Model", class="coverImage")
+      section.cars
+        h2.title Cars Model
+        p.image
+          img(src="./images/cars_model.png", alt="Cars Model", class="coverImage")
