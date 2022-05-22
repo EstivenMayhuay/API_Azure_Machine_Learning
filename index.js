@@ -13,13 +13,14 @@ app.options("*", cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+// View Engiine
+app.set("view engine", "pug");
+
 // Routes
 const titanicRouter = require("./routes/titanic.routes");
 const carsRouter = require("./routes/cars.routes");
 
-app.get("/", (req, res) => {
-  res.send("<h1>Welcome your API emcody by Machine Learning</h1>");
-});
+app.get("/", (req, res) => res.render("index"));
 
 app.get("/test", (req, res) => {
   res.json({ name: "Welcome to EMCODY" });
