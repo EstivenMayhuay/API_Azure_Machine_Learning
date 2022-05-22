@@ -10,8 +10,8 @@ html(lang="en")
     title EMCODY Machine Learnig
     link(rel="stylesheet", href="./css/main.css")
     //- Google Fonts
-    link(rel="preconnect" href="https://fonts.googleapis.com")
-    link(rel="preconnect" href="https://fonts.gstatic.com" crossorigin)
+    link(rel="preconnect", href="https://fonts.googleapis.com")
+    link(rel="preconnect", href="https://fonts.gstatic.com" crossorigin)
     link(href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&family=Roboto:wght@400;500;700&display=swap"  rel="stylesheet")
   body 
     main.main
@@ -21,8 +21,25 @@ html(lang="en")
       section.titanic
         h2.title Titanic Model
         p.image
-          img(src="./images/titanic_model.png", alt="Titanic Model", class="coverImage")
+          img(src="./images/titanic_model.png", alt="Titanic Model", class="coverImage", loading="lazy")
+        p.paragraph Now we show you how to make the request to send to the API and how the server will respond. We use the method POST.
+        p.paragraph
+          strong Request User
+        p.image.image--code
+          img(src="./images/request_titanic.png", alt="request code titanic", class="coverImage", loading="lazy")
+        p.paragraph
+          strong Response Server
+        p.image.image--code
+          img(src="./images/response_titanic.png", alt="request code titanic", class="coverImage", loading="lazy")
       section.cars
         h2.title Cars Model
         p.image
-          img(src="./images/cars_model.png", alt="Cars Model", class="coverImage")
+          img(src="./images/cars_model.png", alt="Cars Model", class="coverImage", loading="lazy")
+        p.paragraph
+          strong Request User
+        p.image.image--code
+          img(src="./images/request_cars.png", alt="request code cars", class="coverImage", loading="lazy")
+        p.paragraph
+          strong Response Server
+        p.image.image--code
+          img(src="./images/response_cars.png", alt="request code cars", class="coverImage", loading="lazy")
