@@ -22,6 +22,7 @@ app.use(express.static("public"));
 // Routes
 const titanicRouter = require("./routes/titanic.routes");
 const carsRouter = require("./routes/cars.routes");
+const covidRouter = require("./routes/covid.routes");
 
 app.get("/", (req, res) => res.render("index"));
 
@@ -31,6 +32,7 @@ app.get("/test", (req, res) => {
 
 app.use(titanicRouter);
 app.use(carsRouter);
+app.use(covidRouter);
 
 app.listen(PORT, () => {
   console.log(`Server running on port http://localhost:${PORT}`);
