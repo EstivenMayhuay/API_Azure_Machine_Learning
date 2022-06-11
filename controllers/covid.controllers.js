@@ -1,9 +1,23 @@
 const fetch = require("node-fetch");
 
 const getCovidResult = (req, res) => {
-  console.log(req.body);
+  const {
+    edad,
+    sexo,
+    cdc_positividad,
+    flag_vacuna,
+    fecha_dosis1,
+    fabricante_dosis1,
+    fecha_dosis2,
+    fabricante_dosis2,
+    fecha_dosis3,
+    fabricante_dosis3,
+    dep_domicilio,
+    prov_domicilio,
+    dist_domicilio,
+  } = req.body;
 
-  const datos = {
+  const data = {
     Inputs: {
       input1: {
         ColumnNames: [
@@ -46,38 +60,38 @@ const getCovidResult = (req, res) => {
           [
             "0",
             "value",
-            "0",
-            "M",
-            "45",
-            "0",
-            "value",
-            "value",
-            "value",
-            "0",
-            "1",
-            "02/04/2021",
-            "PFIZER",
-            "value",
-            "value",
-            "value",
-            "value",
-            "0",
-            "0",
-            "value",
-            "value",
-            "value",
+            edad,
+            sexo,
             "value",
             "0",
             "value",
             "value",
+            "value",
+            "0",
+            cdc_positividad,
+            fecha_dosis1,
+            fabricante_dosis1,
+            fecha_dosis2,
+            fabricante_dosis2,
+            fecha_dosis3,
+            fabricante_dosis3,
+            "0",
+            "0",
+            "value",
+            "value",
+            "value",
+            "value",
+            "0",
+            "value",
+            "value",
             "0",
             "0",
             "value",
             "value",
             "0",
-            "LIMA",
-            "LIMA",
-            "SAN MIGUEL",
+            dep_domicilio,
+            prov_domicilio,
+            dist_domicilio,
           ],
         ],
       },
@@ -88,7 +102,7 @@ const getCovidResult = (req, res) => {
   // Fetching data of persons with covid method post
   fetch(process.env.URL_COVID_AML, {
     method: "POST",
-    body: JSON.stringify(datos),
+    body: JSON.stringify(data),
     headers: {
       "Content-Type": "application/json",
       Authorization: process.env.API_KEY_COVID_AML,
@@ -98,7 +112,25 @@ const getCovidResult = (req, res) => {
     .then((res) => res.text())
     .then((body) => {
       const data = JSON.parse(body);
-      res.json(data);
+      const value = data.Results.output1.value.Values[0];
+      const covidObj = {
+        edad: value[0],
+        sexo: value[1],
+        positividad: value[2],
+        cantidad_vacuna: req.body.flag_vacuna,
+        fecha_dosis1: value[4],
+        marca_dosis1: value[5],
+        fecha_dosis2: value[6],
+        marca_dosis2: value[7],
+        fecha_dosis3: value[8],
+        marca_dosis3: value[9],
+        departamento: value[10],
+        provincia: value[11],
+        distrito: value[12],
+        scoreLabel: value[13],
+        scoreProbability: value[14],
+      };
+      res.json(covidObj);
     });
 };
 
