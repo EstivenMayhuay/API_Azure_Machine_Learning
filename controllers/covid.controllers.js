@@ -1,4 +1,33 @@
 const fetch = require("node-fetch");
+const data = require("../peru.json");
+
+const getPeruProvincias = (req, res) => {
+  const departamento = req.params.departamento;
+  for (const key in data.departamentos) {
+    if (
+      data.departamentos[key]["nombre"].toLocaleLowerCase() === departamento
+    ) {
+      res.json(data.departamentos[key]["provincias"]);
+    }
+  }
+};
+
+const getPeruDistritos = (req, res) => {
+  const departamento = req.body.departamento;
+  const provincia = req.params.provincia;
+
+  for (const key in data.departamentos) {
+    if (data.departamentos[key]["nombre"].toLowerCase() === departamento) {
+      const provincias = data.departamentos[key]["provincias"];
+
+      for (const key in provincias) {
+        if (provincias[key].nombre.toLowerCase() === provincia)
+          // console.log(provincias[key]["distritos"]);
+          res.json(provincias[key]["distritos"]);
+      }
+    }
+  }
+};
 
 const getCovidResult = (req, res) => {
   const {
@@ -134,4 +163,8 @@ const getCovidResult = (req, res) => {
     });
 };
 
-module.exports = getCovidResult;
+module.exports = {
+  getCovidResult,
+  getPeruProvincias,
+  getPeruDistritos,
+};
