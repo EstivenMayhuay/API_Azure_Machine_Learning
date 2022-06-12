@@ -1,0 +1,409 @@
+{
+  "departamentos": [
+    {
+      "nombre": "Amazonas",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Chachapoyas",
+          "distritos": [
+            {
+              "nombre": ""
+            },
+            {
+              "nombre": "hola"
+            }
+          ]
+        },
+        {
+          "nombre": "Bagua"
+        },
+        {
+          "nombre": "Bongara"
+        },
+        {
+          "nombre": "Condorcanqui"
+        },
+        {
+          "nombre": "Laya"
+        },
+        {
+          "nombre": "Rodriguez de Mendoza"
+        },
+        {
+          "nombre": "Utcubamba"
+        }
+      ]
+    },
+    {
+      "nombre": "Ancash",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Huaraz"
+        },
+        {
+          "nombre": "Aija"
+        },
+        {
+          "nombre": "Antonio Raimondi"
+        },
+        {
+          "nombre": "Asuncion"
+        },
+        {
+          "nombre": "Bolognesi"
+        },
+        {
+          "nombre": "Carhuaz"
+        },
+        {
+          "nombre": "Carlos Fermin Fitzcarrald"
+        },
+        {
+          "nombre": "Casma"
+        },
+        {
+          "nombre": "Corongo"
+        },
+        {
+          "nombre": "Huari"
+        },
+        {
+          "nombre": "Huarmey"
+        },
+        {
+          "nombre": "Huaylas"
+        },
+        {
+          "nombre": "Mariscal Luzuriaga"
+        },
+        {
+          "nombre": "Ocros"
+        },
+        {
+          "nombre": "Pallasca"
+        },
+        {
+          "nombre": "Pomabamba"
+        },
+        {
+          "nombre": "Recuay"
+        },
+        {
+          "nombre": "Santa"
+        },
+        {
+          "nombre": "Sihuas"
+        },
+        {
+          "nombre": "Yungay"
+        }
+      ]
+    },
+    {
+      "nombre": "Apurimac",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Abancay"
+        },
+        {
+          "nombre": "Andahuaylas"
+        },
+        {
+          "nombre": "Antabamba"
+        },
+        {
+          "nombre": "Aymaraes"
+        },
+        {
+          "nombre": "Cotabambas"
+        },
+        {
+          "nombre": "Chincheros"
+        },
+        {
+          "nombre": "Grau"
+        }
+      ]
+    },
+    {
+      "nombre": "Arequipa",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Arequipa"
+        },
+        {
+          "nombre": "Camana"
+        },
+        {
+          "nombre": "Caraveli"
+        },
+        {
+          "nombre": "Castilla"
+        },
+        {
+          "nombre": "Caylloma"
+        },
+        {
+          "nombre": "Condesuyos"
+        },
+        {
+          "nombe": "Islay"
+        },
+        {
+          "nombe": "La Union"
+        }
+      ]
+    },
+    {
+      "nombre": "Ayacucho",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Huamanga"
+        },
+        {
+          "nombre": "Cangallo"
+        },
+        {
+          "nombre": "Huanca Sancos"
+        },
+        {
+          "nombre": "Huanta"
+        },
+        {
+          "nombre": "La Mar"
+        },
+        {
+          "nombre": "Lucanas"
+        },
+        {
+          "nombre": "Parinacochas"
+        },
+        {
+          "nombre": " Páucar del Sara Sara"
+        },
+        {
+          "nombre": "Sucre"
+        },
+        {
+          "nombre": "Victor Fajardo"
+        },
+        {
+          "nombre": "Vilcashuamán"
+        }
+      ]
+    },
+    {
+      "nombre": "Cajamarca",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Cajamarca"
+        },
+        {
+          "nombre": "Cajabamba"
+        },
+        {
+          "nombre": "Celedin"
+        },
+        {
+          "nombre": "Chota"
+        },
+        {
+          "nombre": "Contumazá"
+        },
+        {
+          "nombre": "Cutervo"
+        },
+        {
+          "nombre": "Hualgayoc"
+        },
+        {
+          "nombre": "Jaén"
+        },
+        {
+          "nombre": "San Ignacio"
+        },
+        {
+          "nombre": "San Marcos"
+        },
+        {
+          "nombre": "San Miguel"
+        },
+        {
+          "nombre": "San Pablo"
+        },
+        {
+          "nombre": "Santa Cruz"
+        }
+      ]
+    },
+    {
+      "nombre": "Callao",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Prov. Const. del Callao"
+        }
+      ]
+    },
+    {
+      "nombre": "Cuzco",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Cuzco"
+        },
+        {
+          "nombre": "Acomayo"
+        },
+        {
+          "nombre": "Anta"
+        },
+        {
+          "nombre": "Calca"
+        },
+        {
+          "nombre": "Canas"
+        },
+        {
+          "nombre": "Canchis"
+        },
+        {
+          "nombre": "Chumbivilcas"
+        },
+        {
+          "nombre": "Espinar"
+        },
+        {
+          "nombre": "La Convención"
+        },
+        {
+          "nombre": "Paruro"
+        },
+        {
+          "nombre": "Paucartambo"
+        },
+        {
+          "nombre": "Quispicanchi"
+        },
+        {
+          "nombre": "Urubamba"
+        }
+      ]
+    },
+    {
+      "nombre": "Huancavelica",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Huancavelica"
+        },
+        {
+          "nombre": "Acobamba"
+        },
+        {
+          "nombre": "Angaraes"
+        },
+        {
+          "nombre": "Castrovirreyna"
+        },
+        {
+          "nombre": "Churcampa"
+        },
+        {
+          "nombre": "Huaytará"
+        },
+        {
+          "nombre": "Tayacaja"
+        }
+      ]
+    },
+    {
+      "nombre": "Huanuco",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Huánuco"
+        },
+        {
+          "nombre": "Ambos"
+        },
+        {
+          "nombre": "Dos de Mayo"
+        },
+        {
+          "nombre": "Huacaybamba"
+        },
+        {
+          "nombre": "Huamalíes"
+        },
+        {
+          "nombre": "Leoncio Prado"
+        },
+        {
+          "nombre": "Marañón"
+        },
+        {
+          "nombre": "Pachitea"
+        },
+        {
+          "nombre": "Puerto Inca"
+        },
+        {
+          "nombre": "Lauricocha"
+        },
+        {
+          "nombre": "Yarowilca"
+        }
+      ]
+    },
+    {
+      "nombre": "Ica",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Ica"
+        },
+        {
+          "nombre": "Chincha"
+        },
+        {
+          "nombre": "Nazca"
+        },
+        {
+          "nombre": "Palpa"
+        },
+        {
+          "nombre": "Pisco"
+        }
+      ]
+    }
+  ]
+}
