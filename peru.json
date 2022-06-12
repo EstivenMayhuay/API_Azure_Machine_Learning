@@ -13,27 +13,215 @@
               "nombre": ""
             },
             {
-              "nombre": "hola"
+              "nombre": "Asunción"
+            },
+            {
+              "nombre": "Balsas"
+            },
+            {
+              "nombre": "Chachapoyas"
+            },
+            {
+              "nombre": "Cheto"
+            },
+            {
+              "nombre": "Chiliquín"
+            },
+            {
+              "nombre": "Chuquibamba"
+            },
+            {
+              "nombre": "Granada"
+            },
+            {
+              "nombre": "Huancas"
+            },
+            {
+              "nombre": "Jalca Grande"
+            },
+            {
+              "nombre": "Leimebamba"
+            },
+            {
+              "nombre": "Levanto"
+            },
+            {
+              "nombre": "Magdalena"
+            },
+            {
+              "nombre": "Mariscal Castilla"
+            },
+            {
+              "nombre": "Molinopampa"
+            },
+            {
+              "nombre": "Montevideo"
+            },
+            {
+              "nombre": "Olleros"
+            },
+            {
+              "nombre": "Quinjalca"
+            },
+            {
+              "nombre": "San Francisco de Daguas"
+            },
+            {
+              "nombre": "San Isidro de Maino"
+            },
+            {
+              "nombre": "Soloco"
+            },
+            {
+              "nombre": "Sonche"
             }
           ]
         },
         {
-          "nombre": "Bagua"
+          "nombre": "Bagua",
+          "distritos": [
+            {
+              "nombre": ""
+            },
+            {
+              "nombre": "Bagua"
+            },
+            {
+              "nombre": "La Peca"
+            },
+            {
+              "nombre": "Aramango"
+            },
+            {
+              "nombre": "Copallín"
+            },
+            {
+              "nombre": "El Parco"
+            },
+            {
+              "nombre": "Imaza"
+            }
+          ]
         },
         {
-          "nombre": "Bongara"
+          "nombre": "Bongara",
+          "distritos": [
+            {
+              "nombre": ""
+            },
+            {
+              "nombre": "Jumbilla"
+            },
+            {
+              "nombre": "Chisquilla"
+            },
+            {
+              "nombre": "Churuja"
+            },
+            {
+              "nombre": "Corosha"
+            },
+            {
+              "nombre": "Cuispes"
+            },
+            {
+              "nombre": "Florida"
+            },
+            {
+              "nombre": "Jazán"
+            },
+            {
+              "nombre": "Recta"
+            },
+            {
+              "nombre": "San Carlos"
+            },
+            {
+              "nombre": "Shipasbamba"
+            },
+            {
+              "nombre": "Valera"
+            },
+            {
+              "nombre": "Yambrasbamba"
+            }
+          ]
         },
         {
-          "nombre": "Condorcanqui"
+          "nombre": "Condorcanqui",
+          "distritos": [
+            {
+              "nombre": ""
+            },
+            {
+              "nombre": "El Cenepa"
+            },
+            {
+              "nombre": "Nieva"
+            },
+            {
+              "nombre": "Rio Santiago"
+            }
+          ]
         },
         {
-          "nombre": "Laya"
+          "nombre": "Luya",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Camporredondo" },
+            { "nombre": "Cocabamba" },
+            { "nombre": "Colcamar" },
+            { "nombre": "Conila" },
+            { "nombre": "Inguilpata" },
+            { "nombre": "Lámud" },
+            { "nombre": "Longuita" },
+            { "nombre": "Lonya Chico" },
+            { "nombre": "Luya" },
+            { "nombre": "Luya Viejo" },
+            { "nombre": "María" },
+            { "nombre": "Ocalli" },
+            { "nombre": "Ocumal" },
+            { "nombre": "Pisuquía" },
+            { "nombre": "Providencia" },
+            { "nombre": "San Cristóbal" },
+            { "nombre": "San Francisco del Yeso" },
+            { "nombre": "San Jerónimo" },
+            { "nombre": "San Juan de Lopecancha" },
+            { "nombre": "Santa Catalina" },
+            { "nombre": "Santo Tomás" },
+            { "nombre": "Tingo" }
+          ]
         },
         {
-          "nombre": "Rodriguez de Mendoza"
+          "nombre": "Rodriguez de Mendoza",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Nicolás" },
+            { "nombre": "Chirimoto" },
+            { "nombre": "Cochamal" },
+            { "nombre": "Huambo" },
+            { "nombre": "Limabamba" },
+            { "nombre": "Longar" },
+            { "nombre": "Mariscal Benavides" },
+            { "nombre": "Mílpuc" },
+            { "nombre": "Omia" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Totora" },
+            { "nombre": "Vista Alegre" }
+          ]
         },
         {
-          "nombre": "Utcubamba"
+          "nombre": "Utcubamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Bagua Grande" },
+            { "nombre": "Cajaruro" },
+            { "nombre": "Cumba" },
+            { "nombre": "El Milagro" },
+            { "nombre": "Jamalca" },
+            { "nombre": "Lonya Grande" },
+            { "nombre": "Yamón" }
+          ]
         }
       ]
     },
@@ -44,64 +232,290 @@
           "nombre": ""
         },
         {
-          "nombre": "Huaraz"
+          "nombre": "Huaraz",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huaraz" },
+            { "nombre": "Cochabamba" },
+            { "nombre": "Colcabamba" },
+            { "nombre": "Huanchay" },
+            { "nombre": "Independencia" },
+            { "nombre": "Jangas" },
+            { "nombre": "La Libertad" },
+            { "nombre": "Olleros" },
+            { "nombre": "Pampas Grande" },
+            { "nombre": "Pariacoto" },
+            { "nombre": "Pira" },
+            { "nombre": "Tarica" }
+          ]
         },
         {
-          "nombre": "Aija"
+          "nombre": "Aija",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Aija" },
+            { "nombre": "Coris" },
+            { "nombre": "Huacllán" },
+            { "nombre": "La Merced" },
+            { "nombre": "Succha" }
+          ]
         },
         {
-          "nombre": "Antonio Raimondi"
+          "nombre": "Antonio Raimondi",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Llamellín" },
+            { "nombre": "Aczo" },
+            { "nombre": "Chaccho" },
+            { "nombre": "Chingas" },
+            { "nombre": "Mirgas" },
+            { "nombre": "San Juan de Rontoy" }
+          ]
         },
         {
-          "nombre": "Asuncion"
+          "nombre": "Asuncion",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chacas" },
+            { "nombre": "Acochaca" }
+          ]
         },
         {
-          "nombre": "Bolognesi"
+          "nombre": "Bolognesi",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Abelardo Pardo Lezameta" },
+            { "nombre": "Antonio Raimondi" },
+            { "nombre": "Aquia" },
+            { "nombre": "Cajacay" },
+            { "nombre": "Canis" },
+            { "nombre": "Chiquián" },
+            { "nombre": "Cólquioc" },
+            { "nombre": "Huallanca" },
+            { "nombre": "Huasta" },
+            { "nombre": "Huayllacayán" },
+            { "nombre": "La Primavera" },
+            { "nombre": "Mangas" },
+            { "nombre": "Pacllón" },
+            { "nombre": "San Miguel de Corpanqui" },
+            { "nombre": "Ticllos" }
+          ]
         },
         {
-          "nombre": "Carhuaz"
+          "nombre": "Carhuaz",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Carhuaz" },
+            { "nombre": "Acopampa" },
+            { "nombre": "Amashca" },
+            { "nombre": "Anta" },
+            { "nombre": "Ataquero" },
+            { "nombre": "Marcará" },
+            { "nombre": "Pariahuanca" },
+            { "nombre": "San Miguel de Aco" },
+            { "nombre": "Shilla" },
+            { "nombre": "Tinco" },
+            { "nombre": "Yungar" }
+          ]
         },
         {
-          "nombre": "Carlos Fermin Fitzcarrald"
+          "nombre": "Carlos Fermin Fitzcarrald",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Luis" },
+            { "nombre": "San Nicolás" },
+            { "nombre": "Yauya" }
+          ]
         },
         {
-          "nombre": "Casma"
+          "nombre": "Casma",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Casma" },
+            { "nombre": "Buenavista Alta" },
+            { "nombre": "Comandante Noel" },
+            { "nombre": "Yaután" }
+          ]
         },
         {
-          "nombre": "Corongo"
+          "nombre": "Corongo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Corongo" },
+            { "nombre": "Aco" },
+            { "nombre": "Bambas" },
+            { "nombre": "Cusca" },
+            { "nombre": "La Pampa" },
+            { "nombre": "Yánac" },
+            { "nombre": "Yupán" }
+          ]
         },
         {
-          "nombre": "Huari"
+          "nombre": "Huari",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huari" },
+            { "nombre": "Anra" },
+            { "nombre": "Cajay" },
+            { "nombre": "Chavín de Huántar" },
+            { "nombre": "Huacachi" },
+            { "nombre": "Huacchis" },
+            { "nombre": "Huachis" },
+            { "nombre": "Huántar" },
+            { "nombre": "Masin" },
+            { "nombre": "Paucas" },
+            { "nombre": "Pontó" },
+            { "nombre": "Rahuapampa" },
+            { "nombre": "Rapayán" },
+            { "nombre": "San Marcos" },
+            { "nombre": "San Pedro de Chaná" },
+            { "nombre": "Uco" }
+          ]
         },
         {
-          "nombre": "Huarmey"
+          "nombre": "Huarmey",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huarmey" },
+            { "nombre": "Cochapeti" },
+            { "nombre": "Culebras" },
+            { "nombre": "Huayán" },
+            { "nombre": "Malvas" }
+          ]
         },
         {
-          "nombre": "Huaylas"
+          "nombre": "Huaylas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Caraz" },
+            { "nombre": "Huallanca" },
+            { "nombre": "Huata" },
+            { "nombre": "Huaylas" },
+            { "nombre": "Mato" },
+            { "nombre": "Pamparomás" },
+            { "nombre": "Pueblo Libre" },
+            { "nombre": "Santa Cruz" },
+            { "nombre": "Santo Toribio" },
+            { "nombre": "Yuracmarca" }
+          ]
         },
         {
-          "nombre": "Mariscal Luzuriaga"
+          "nombre": "Mariscal Luzuriaga",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Piscobamba" },
+            { "nombre": "Casca" },
+            { "nombre": "Eleazar Guzmán Barrón" },
+            { "nombre": "Fidel OIivas Escudero" },
+            { "nombre": "Llama" },
+            { "nombre": "Llumpa" },
+            { "nombre": "Musga" },
+            { "nombre": "Lucma" }
+          ]
         },
         {
-          "nombre": "Ocros"
+          "nombre": "Ocros",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ocros" },
+            { "nombre": "Acas" },
+            { "nombre": "Cajamarquilla" },
+            { "nombre": "Carhuapampa" },
+            { "nombre": "Cochas" },
+            { "nombre": "Congas" },
+            { "nombre": "Llipa" },
+            { "nombre": "San Cristóbal de Raján" },
+            { "nombre": "San Pedro" },
+            { "nombre": "Santiago de Chilcas" }
+          ]
         },
         {
-          "nombre": "Pallasca"
+          "nombre": "Pallasca",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cabana" },
+            { "nombre": "Bolognesi" },
+            { "nombre": "Conchucos" },
+            { "nombre": "Huacaschuque" },
+            { "nombre": "Huandoval" },
+            { "nombre": "Lacabamba" },
+            { "nombre": "Llapo" },
+            { "nombre": "Pallasca" },
+            { "nombre": "Pampas" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Tauca" }
+          ]
         },
         {
-          "nombre": "Pomabamba"
+          "nombre": "Pomabamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Pomabamba" },
+            { "nombre": "Huayllán" },
+            { "nombre": "Parobamba" },
+            { "nombre": "Quinuabamba" }
+          ]
         },
         {
-          "nombre": "Recuay"
+          "nombre": "Recuay",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Recuay" },
+            { "nombre": "Cátac" },
+            { "nombre": "Cotaparaco" },
+            { "nombre": "Huayllapampa" },
+            { "nombre": "Llacllín" },
+            { "nombre": "Marca" },
+            { "nombre": "Pampas Chico" },
+            { "nombre": "Pararín" },
+            { "nombre": "Tapacocha" },
+            { "nombre": "Ticapampa" }
+          ]
         },
         {
-          "nombre": "Santa"
+          "nombre": "Santa",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chimbote" },
+            { "nombre": "Cáceres del Perú" },
+            { "nombre": "Coishco" },
+            { "nombre": "Macate" },
+            { "nombre": "Moro" },
+            { "nombre": "Nepeña" },
+            { "nombre": "Nuevo Chimbote" },
+            { "nombre": "Samanco" },
+            { "nombre": "Santa" }
+          ]
         },
         {
-          "nombre": "Sihuas"
+          "nombre": "Sihuas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Sihuas" },
+            { "nombre": "Acobamba" },
+            { "nombre": "Alfonso Ugarte" },
+            { "nombre": "Cashapampa" },
+            { "nombre": "Chingalpo " },
+            { "nombre": "Huayllabamba" },
+            { "nombre": "Quiches " },
+            { "nombre": "Ragash " },
+            { "nombre": "San Juan" },
+            { "nombre": "Sicsibamba" }
+          ]
         },
         {
-          "nombre": "Yungay"
+          "nombre": "Yungay",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yungay" },
+            { "nombre": "Cascapara" },
+            { "nombre": "Mancos" },
+            { "nombre": "Matacoto" },
+            { "nombre": "Quillo" },
+            { "nombre": "Ranrahirca" },
+            { "nombre": "Shupluy" },
+            { "nombre": "Yanama" }
+          ]
         }
       ]
     },
@@ -112,98 +526,490 @@
           "nombre": ""
         },
         {
-          "nombre": "Abancay"
+          "nombre": "Abancay",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Abancay" },
+            { "nombre": "Chacoche" },
+            { "nombre": "Circa" },
+            { "nombre": "Curahuasi" },
+            { "nombre": "Huanipaca" },
+            { "nombre": "Lambrama" },
+            { "nombre": "Pichirhua" },
+            { "nombre": "San Pedro de Cachora" },
+            { "nombre": "Tamburco" }
+          ]
         },
         {
-          "nombre": "Andahuaylas"
+          "nombre": "Andahuaylas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Andahuaylas" },
+            { "nombre": "Andarapa" },
+            { "nombre": "Chiara" },
+            { "nombre": "Huancarama" },
+            { "nombre": "Huancaray" },
+            { "nombre": "Huayana" },
+            { "nombre": "José María Argueda" },
+            { "nombre": "Kaquiabamba" },
+            { "nombre": "Kishuará" },
+            { "nombre": "Pacobamba" },
+            { "nombre": "Pacucha" },
+            { "nombre": "Pampachiri" },
+            { "nombre": "Pomacocha" },
+            { "nombre": "San Antonio de Cachi " },
+            { "nombre": "San Jerónimo" },
+            { "nombre": "San Miguel de Chaccrapampa" },
+            { "nombre": "Santa María de Chicmo" },
+            { "nombre": "Talavera de la Reyna" },
+            { "nombre": "Tumay Huaraca" },
+            { "nombre": "Turpo" }
+          ]
         },
         {
-          "nombre": "Antabamba"
+          "nombre": "Antabamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Antabamba" },
+            { "nombre": "El Oro" },
+            { "nombre": "Huaquirca" },
+            { "nombre": "Juan Espinoza Medrano" },
+            { "nombre": "Oropesa" },
+            { "nombre": "Pachaconas" },
+            { "nombre": "Sabaino" }
+          ]
         },
         {
-          "nombre": "Aymaraes"
+          "nombre": "Aymaraes",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chalhuanca" },
+            { "nombre": "Capaya" },
+            { "nombre": "Caraybamba" },
+            { "nombre": "Chapimarca" },
+            { "nombre": "Colcabamba" },
+            { "nombre": "Cotaruse" },
+            { "nombre": "Ihuayllo" },
+            { "nombre": "Justo Apu Sahuaraura" },
+            { "nombre": "Lucre" },
+            { "nombre": "Pocohuanca" },
+            { "nombre": "San Juan de Chacña" },
+            { "nombre": "Sañayca" },
+            { "nombre": "Soraya" },
+            { "nombre": "Tapairihua" },
+            { "nombre": "Tintay" },
+            { "nombre": "Toraya" },
+            { "nombre": "Yanaca" }
+          ]
         },
         {
-          "nombre": "Cotabambas"
+          "nombre": "Cotabambas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Tambobamba" },
+            { "nombre": "Cotabambas" },
+            { "nombre": "Coyllurqui" },
+            { "nombre": "Haquira" },
+            { "nombre": "Mara" },
+            { "nombre": "Chalhuahuacho" }
+          ]
         },
         {
-          "nombre": "Chincheros"
+          "nombre": "Chincheros",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chincheros" },
+            { "nombre": "Ancohuallo" },
+            { "nombre": "Cocharcas" },
+            { "nombre": "Huaccana" },
+            { "nombre": "Ocobamba" },
+            { "nombre": "Ongoy" },
+            { "nombre": "Uranmarca" },
+            { "nombre": "Ranracancha" },
+            { "nombre": "Rocchac" },
+            { "nombre": "El Porvenir" },
+            { "nombre": "Los Chankas" },
+            { "nombre": "Ahuayro" }
+          ]
         },
         {
-          "nombre": "Grau"
+          "nombre": "Grau",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chuquibambilla" },
+            { "nombre": "Curpahuasi" },
+            { "nombre": "Huayllati" },
+            { "nombre": "Mamara" },
+            { "nombre": "Mariscal Gamarra" },
+            { "nombre": "Micaela Bastidas" },
+            { "nombre": "Pataypampa" },
+            { "nombre": "Progreso" },
+            { "nombre": "San Antonio" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Turpay" },
+            { "nombre": "Vilcabamba" },
+            { "nombre": "Virundo" },
+            { "nombre": "Curasco" }
+          ]
         }
       ]
     },
     {
       "nombre": "Arequipa",
       "provincias": [
+        { "nombre": "" },
         {
-          "nombre": ""
+          "nombre": "Arequipa",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Arequipa" },
+            { "nombre": "Alto Selva Alegre" },
+            { "nombre": "Cayma" },
+            { "nombre": "Cerro Colorado" },
+            { "nombre": "Characato" },
+            { "nombre": "Chiguata" },
+            { "nombre": "Jacobo Hunter" },
+            { "nombre": "José Luis Bustamante y Rivero" },
+            { "nombre": "La Joya" },
+            { "nombre": "Mariano Melgar" },
+            { "nombre": "Miraflores" },
+            { "nombre": "Mollebaya" },
+            { "nombre": "Paucarpata" },
+            { "nombre": "Pocsi" },
+            { "nombre": "Polobaya" },
+            { "nombre": "Quequeña" },
+            { "nombre": "Sabandía" },
+            { "nombre": "Sachaca" },
+            { "nombre": "San Juan de Siguas" },
+            { "nombre": "San Juan de Tarucani" },
+            { "nombre": "Santa Isabel de Siguas" },
+            { "nombre": "Santa Rita de Siguas" },
+            { "nombre": "Socabaya" },
+            { "nombre": "Tiabaya" },
+            { "nombre": "Uchumayo" },
+            { "nombre": "Vitor" },
+            { "nombre": "Yanahuara" },
+            { "nombre": "Yarabamba" },
+            { "nombre": "Yura" }
+          ]
         },
         {
-          "nombre": "Arequipa"
+          "nombre": "Camana",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Camaná" },
+            { "nombre": "José María Quimper" },
+            { "nombre": "Mariano Nicolás Valcarcel" },
+            { "nombre": "Mariscal Cáceres" },
+            { "nombre": "Nicolás de Piérola" },
+            { "nombre": "Ocoña" },
+            { "nombre": "Quilca" },
+            { "nombre": "Samuel Pastor" }
+          ]
         },
         {
-          "nombre": "Camana"
+          "nombre": "Caraveli",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Caravelí" },
+            { "nombre": "Acarí" },
+            { "nombre": "Atico" },
+            { "nombre": "Atiquipa" },
+            { "nombre": "Bella Unión" },
+            { "nombre": "Cahuacho" },
+            { "nombre": "Chala" },
+            { "nombre": "Cháparra" },
+            { "nombre": "Huanuhuanu" },
+            { "nombre": "Jaquí" },
+            { "nombre": "Lomas" },
+            { "nombre": "Quicacha" },
+            { "nombre": "Yauca" }
+          ]
         },
         {
-          "nombre": "Caraveli"
+          "nombre": "Castilla",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Aplao" },
+            { "nombre": "Andahua" },
+            { "nombre": "Ayo" },
+            { "nombre": "Chachas" },
+            { "nombre": "Chilcaymarca" },
+            { "nombre": "Choco" },
+            { "nombre": "Huancarqui" },
+            { "nombre": "Machaguay" },
+            { "nombre": "Orcopampa" },
+            { "nombre": "Pampacolca" },
+            { "nombre": "Tipán" },
+            { "nombre": "Uñón" },
+            { "nombre": "Uraca" },
+            { "nombre": "Viraco" }
+          ]
         },
         {
-          "nombre": "Castilla"
+          "nombre": "Caylloma",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Achoma" },
+            { "nombre": "Cabanaconde" },
+            { "nombre": "Callalli" },
+            { "nombre": "Caylloma" },
+            { "nombre": "Chivay" },
+            { "nombre": "Coporaque" },
+            { "nombre": "Huambo" },
+            { "nombre": "Huanca" },
+            { "nombre": "Ichupampa" },
+            { "nombre": "Lari" },
+            { "nombre": "Lluta" },
+            { "nombre": "Maca" },
+            { "nombre": "Madrigal" },
+            { "nombre": "Majes" },
+            { "nombre": "San Antonio de Chuca" },
+            { "nombre": "Sibayo" },
+            { "nombre": "Tapay" },
+            { "nombre": "Tisco" },
+            { "nombre": "Tuti" },
+            { "nombre": "Yanque" }
+          ]
         },
         {
-          "nombre": "Caylloma"
+          "nombre": "Condesuyos",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chuquibamba" },
+            { "nombre": "Andaray" },
+            { "nombre": "Cayarani" },
+            { "nombre": "Chichas" },
+            { "nombre": "Iray" },
+            { "nombre": "Río Grande" },
+            { "nombre": "Salamanca" },
+            { "nombre": "Yanaquihua" }
+          ]
         },
         {
-          "nombre": "Condesuyos"
+          "nombe": "Islay",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Mollendo" },
+            { "nombre": "Cocachacra" },
+            { "nombre": "Deán Valdivia" },
+            { "nombre": "Islay" },
+            { "nombre": "Mejía" },
+            { "nombre": "Punta de Bombón" }
+          ]
         },
         {
-          "nombe": "Islay"
-        },
-        {
-          "nombe": "La Union"
+          "nombe": "La Union",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cotahuasi" },
+            { "nombre": "Alca" },
+            { "nombre": "Charcana" },
+            { "nombre": "Huaynacotas" },
+            { "nombre": "Pampamarca" },
+            { "nombre": "Puyca" },
+            { "nombre": "Quechualla" },
+            { "nombre": "Sayla" },
+            { "nombre": "Tauría" },
+            { "nombre": "Tomepampa" },
+            { "nombre": "Toro" }
+          ]
         }
       ]
     },
     {
       "nombre": "Ayacucho",
       "provincias": [
+        { "nombre": "" },
         {
-          "nombre": ""
+          "nombre": "Huamanga",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Acocro" },
+            { "nombre": "Acos Vinchos" },
+            { "nombre": "Andrés Avelino Cáceres Dorregaray" },
+            { "nombre": "Ayacucho" },
+            { "nombre": "Carmen Alto" },
+            { "nombre": "Chiara" },
+            { "nombre": "Jesús Nazareno" },
+            { "nombre": "Ocros" },
+            { "nombre": "Pacaycasa" },
+            { "nombre": "Quinua" },
+            { "nombre": "San José de Ticllas" },
+            { "nombre": "San Juan Bautista" },
+            { "nombre": "Santiago de Pischa" },
+            { "nombre": "Socos" },
+            { "nombre": "Tambillo" },
+            { "nombre": "Vinchos" }
+          ]
         },
         {
-          "nombre": "Huamanga"
+          "nombre": "Cangallo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cangallo" },
+            { "nombre": "Chuschi" },
+            { "nombre": "Los Morochucos" },
+            { "nombre": "María Parado de Bellido" },
+            { "nombre": "Paras" },
+            { "nombre": "Totos" }
+          ]
         },
         {
-          "nombre": "Cangallo"
+          "nombre": "Huanca Sancos",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Carapo" },
+            { "nombre": "Sacsamarca" },
+            { "nombre": "Sancos" },
+            { "nombre": "Santiago de Lucanamarca" }
+          ]
         },
         {
-          "nombre": "Huanca Sancos"
+          "nombre": "Huanta",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huanta" },
+            { "nombre": "Ayahuanc" },
+            { "nombre": "Huamanguill" },
+            { "nombre": "Iguaín" },
+            { "nombre": "Llochegua" },
+            { "nombre": "Luricocha" },
+            { "nombre": "Santillan" },
+            { "nombre": "Sivia" },
+            { "nombre": "Canayr" },
+            { "nombre": "Uchuracca" },
+            { "nombre": "Pucacolpa" },
+            { "nombre": "Chaca" },
+            { "nombre": "Puti" }
+          ]
         },
         {
-          "nombre": "Huanta"
+          "nombre": "La Mar",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Miguel" },
+            { "nombre": "Anco" },
+            { "nombre": "Ayna" },
+            { "nombre": "Chilcas" },
+            { "nombre": "Chungui" },
+            { "nombre": "Luis Carranza" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Tambo" },
+            { "nombre": "Samugari" },
+            { "nombre": "Anchihuay" },
+            { "nombre": "Oronccoy" },
+            { "nombre": "Unión Progreso" },
+            { "nombre": "Río Magdalena" },
+            { "nombre": "Ninabamba" },
+            { "nombre": "Patibamba" }
+          ]
         },
         {
-          "nombre": "La Mar"
+          "nombre": "Lucanas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Puquio" },
+            { "nombre": "Aucará" },
+            { "nombre": "Cabana" },
+            { "nombre": "Carmen Salcedo" },
+            { "nombre": "Chaviña" },
+            { "nombre": "Chipao" },
+            { "nombre": "Huac-Huas" },
+            { "nombre": "Laramate" },
+            { "nombre": "Leoncio Prado" },
+            { "nombre": "Llauta" },
+            { "nombre": "Lucanas" },
+            { "nombre": "Ocaña" },
+            { "nombre": "Otoca" },
+            { "nombre": "Saisa" },
+            { "nombre": "San Cristóbal" },
+            { "nombre": "San Juan" },
+            { "nombre": "San Pedro" },
+            { "nombre": "San Pedro de Palco" },
+            { "nombre": "Sancos" },
+            { "nombre": "Santa Ana de Huaycahuacho" },
+            { "nombre": "Santa Lucía" }
+          ]
         },
         {
-          "nombre": "Lucanas"
+          "nombre": "Parinacochas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Coracora" },
+            { "nombre": "Chumpi" },
+            { "nombre": "Coronel Castañeda" },
+            { "nombre": "Pacapausa" },
+            { "nombre": "Pullo" },
+            { "nombre": "Puyusca" },
+            { "nombre": "San Francisco de Ravacayco" },
+            { "nombre": "Upahuacho" }
+          ]
         },
         {
-          "nombre": "Parinacochas"
+          "nombre": " Páucar del Sara Sara",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Pauza" },
+            { "nombre": "Colta" },
+            { "nombre": "Corculla" },
+            { "nombre": "Lampa" },
+            { "nombre": "Marcabamba" },
+            { "nombre": "Oyolo" },
+            { "nombre": "Pararca" },
+            { "nombre": "San Javier de Alpabamba" },
+            { "nombre": "San José de Ushua" },
+            { "nombre": "Sara Sara" }
+          ]
         },
         {
-          "nombre": " Páucar del Sara Sara"
+          "nombre": "Sucre",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Querobamba" },
+            { "nombre": "Belén" },
+            { "nombre": "Chalcos" },
+            { "nombre": "Chilcayoc" },
+            { "nombre": "Huacaña" },
+            { "nombre": "Morcolla" },
+            { "nombre": "Paico" },
+            { "nombre": "San Pedro de Larcay" },
+            { "nombre": "San Salvador de Quije" },
+            { "nombre": "Santiago de Paucaray" },
+            { "nombre": "Soras" }
+          ]
         },
         {
-          "nombre": "Sucre"
+          "nombre": "Victor Fajardo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huancapi" },
+            { "nombre": "Hualla" },
+            { "nombre": "Alcamenca" },
+            { "nombre": "Apongo" },
+            { "nombre": "Asquipata" },
+            { "nombre": "Canaria" },
+            { "nombre": "Cayara" },
+            { "nombre": "Colca" },
+            { "nombre": "Huamanquiquia" },
+            { "nombre": "Huancaraylla" },
+            { "nombre": "Sarhua" },
+            { "nombre": "Vilcanchos" }
+          ]
         },
         {
-          "nombre": "Victor Fajardo"
-        },
-        {
-          "nombre": "Vilcashuamán"
+          "nombre": "Vilcashuamán",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Vilcashuamán" },
+            { "nombre": "Accomarca" },
+            { "nombre": "Carhuanca" },
+            { "nombre": "Concepción" },
+            { "nombre": "Huambalpa" },
+            { "nombre": "Independencia" },
+            { "nombre": "Saurama" },
+            { "nombre": "Vischongo" }
+          ]
         }
       ]
     },
@@ -214,43 +1020,209 @@
           "nombre": ""
         },
         {
-          "nombre": "Cajamarca"
+          "nombre": "Cajamarca",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cajamarca" },
+            { "nombre": "Asunción" },
+            { "nombre": "Chetilla" },
+            { "nombre": "Cospán" },
+            { "nombre": "Encañada" },
+            { "nombre": "Jesús" },
+            { "nombre": "Llacanora" },
+            { "nombre": "Los Baños del Inca" },
+            { "nombre": "Magdalena" },
+            { "nombre": "Matara" },
+            { "nombre": "Namora" },
+            { "nombre": "San Juan" }
+          ]
         },
         {
-          "nombre": "Cajabamba"
+          "nombre": "Cajabamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cajabamba" },
+            { "nombre": "Cachachi" },
+            { "nombre": "Condebamba" },
+            { "nombre": "Sitacocha" }
+          ]
         },
         {
-          "nombre": "Celedin"
+          "nombre": "Celedin",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Celendín" },
+            { "nombre": "Chúmuch" },
+            { "nombre": "Cortegana" },
+            { "nombre": "Huasmín" },
+            { "nombre": "Jorge Chávez" },
+            { "nombre": "José Gálvez" },
+            { "nombre": "La Libertad de Pallán" },
+            { "nombre": "Miguel Iglesias" },
+            { "nombre": "Oxamarca" },
+            { "nombre": "Sorochuco" },
+            { "nombre": "Sucre" },
+            { "nombre": "Utco" }
+          ]
         },
         {
-          "nombre": "Chota"
+          "nombre": "Chota",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chota" },
+            { "nombre": "Anguía" },
+            { "nombre": "Chadín" },
+            { "nombre": "Chalamarca" },
+            { "nombre": "Chiguirip" },
+            { "nombre": "Chimbán" },
+            { "nombre": "Choropampa" },
+            { "nombre": "Cochabamba" },
+            { "nombre": "Conchán" },
+            { "nombre": "Huambos" },
+            { "nombre": "Lajas" },
+            { "nombre": "Llama" },
+            { "nombre": "Miracosta" },
+            { "nombre": "Paccha" },
+            { "nombre": "Pión" },
+            { "nombre": "Querocoto" },
+            { "nombre": "San Juan de Licupis" },
+            { "nombre": "Tacabamba" },
+            { "nombre": "Tocmoche" }
+          ]
         },
         {
-          "nombre": "Contumazá"
+          "nombre": "Contumazá",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Contumazá" },
+            { "nombre": "Chilete" },
+            { "nombre": "Cupisnique" },
+            { "nombre": "Guzmango" },
+            { "nombre": "San Benito" },
+            { "nombre": "Santa Cruz de Toledo" },
+            { "nombre": "Tantarica" },
+            { "nombre": "Yonán" }
+          ]
         },
         {
-          "nombre": "Cutervo"
+          "nombre": "Cutervo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cutervo" },
+            { "nombre": "Calláyuc" },
+            { "nombre": "Choros" },
+            { "nombre": "Cujillo" },
+            { "nombre": "La Ramada" },
+            { "nombre": "Pimpingos" },
+            { "nombre": "Querocotillo" },
+            { "nombre": "San Andrés de Cutervo" },
+            { "nombre": "San Juan de Cutervo" },
+            { "nombre": "San Luis de Lucma" },
+            { "nombre": "Santa Cruz" },
+            { "nombre": "Santo Domingo de la Capilla" },
+            { "nombre": "Santo Tomás" },
+            { "nombre": "Socota" },
+            { "nombre": "Toribio Casanova" }
+          ]
         },
         {
-          "nombre": "Hualgayoc"
+          "nombre": "Hualgayoc",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Bambamarca" },
+            { "nombre": "Chugur" },
+            { "nombre": "Hualgayoc" }
+          ]
         },
         {
-          "nombre": "Jaén"
+          "nombre": "Jaén",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Jaén" },
+            { "nombre": "Bellavista" },
+            { "nombre": "Chontalí" },
+            { "nombre": "Colasay" },
+            { "nombre": "Huabal" },
+            { "nombre": "Las Pirias" },
+            { "nombre": "Pomahuaca" },
+            { "nombre": "Pucará" },
+            { "nombre": "Sallique" },
+            { "nombre": "San Felipe" },
+            { "nombre": "San José del Alto" },
+            { "nombre": "Santa Rosa" }
+          ]
         },
         {
-          "nombre": "San Ignacio"
+          "nombre": "San Ignacio",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Ignacio" },
+            { "nombre": "Chirinos" },
+            { "nombre": "Huarango" },
+            { "nombre": "La Coipa" },
+            { "nombre": "Namballe" },
+            { "nombre": "San José de Lourdes" },
+            { "nombre": "Tabaconas" }
+          ]
         },
         {
-          "nombre": "San Marcos"
+          "nombre": "San Marcos",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Pedro Gálvez" },
+            { "nombre": "Chancay" },
+            { "nombre": "Eduardo Villanueva" },
+            { "nombre": "Gregorio Pita" },
+            { "nombre": "Ichocán" },
+            { "nombre": "José Manuel Quiroz" },
+            { "nombre": "José Sabogal" }
+          ]
         },
         {
-          "nombre": "San Miguel"
+          "nombre": "San Miguel",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Miguel" },
+            { "nombre": "Bolívar" },
+            { "nombre": "Calquis" },
+            { "nombre": "Catilluc" },
+            { "nombre": "El Prado" },
+            { "nombre": "La Florida" },
+            { "nombre": "Llapa" },
+            { "nombre": "Nanchoc" },
+            { "nombre": "Niepos" },
+            { "nombre": "San Gregorio" },
+            { "nombre": "San Silvestre de Conchán" },
+            { "nombre": "Tongod" },
+            { "nombre": "Unión Agua Blanca" }
+          ]
         },
         {
-          "nombre": "San Pablo"
+          "nombre": "San Pablo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San Pablo" },
+            { "nombre": "San Bernardino" },
+            { "nombre": "San Luis" },
+            { "nombre": "Tumbadén" }
+          ]
         },
         {
-          "nombre": "Santa Cruz"
+          "nombre": "Santa Cruz",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Santa Cruz" },
+            { "nombre": "Andabamba" },
+            { "nombre": "Catache" },
+            { "nombre": "Chancaybaños" },
+            { "nombre": "La Esperanza" },
+            { "nombre": "Ninabamba" },
+            { "nombre": "Pulán" },
+            { "nombre": "Saucepampa" },
+            { "nombre": "Sexi" },
+            { "nombre": "Uticyacu" },
+            { "nombre": "Yauyucan" }
+          ]
         }
       ]
     },
@@ -261,7 +1233,17 @@
           "nombre": ""
         },
         {
-          "nombre": "Prov. Const. del Callao"
+          "nombre": "Prov. Const. del Callao",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Callao " },
+            { "nombre": "Bellavista" },
+            { "nombre": "Carmen de La Legua Reynoso" },
+            { "nombre": "La Perla " },
+            { "nombre": "La Punta " },
+            { "nombre": "Ventanilla" },
+            { "nombre": "Mi Perú" }
+          ]
         }
       ]
     },
@@ -272,43 +1254,200 @@
           "nombre": ""
         },
         {
-          "nombre": "Cuzco"
+          "nombre": "Cuzco",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cusco" },
+            { "nombre": "Ccorca" },
+            { "nombre": "Poroy" },
+            { "nombre": "San Jerónimo" },
+            { "nombre": "San Sebastián" },
+            { "nombre": "Santiago" },
+            { "nombre": "Saylla" },
+            { "nombre": "Wanchaq" }
+          ]
         },
         {
-          "nombre": "Acomayo"
+          "nombre": "Acomayo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Acomayo" },
+            { "nombre": "Acopia" },
+            { "nombre": "Acos" },
+            { "nombre": "Mosoc Llacta" },
+            { "nombre": "Pomacanchi" },
+            { "nombre": "Rondocan" },
+            { "nombre": "Sangarará" }
+          ]
         },
         {
-          "nombre": "Anta"
+          "nombre": "Anta",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Anta" },
+            { "nombre": "Ancahuasi" },
+            { "nombre": "Cachimayo" },
+            { "nombre": "Chinchaypujio" },
+            { "nombre": "Huarocondo" },
+            { "nombre": "Limatambo" },
+            { "nombre": "Mollepata" },
+            { "nombre": "Pucyura" },
+            { "nombre": "Zurite" }
+          ]
         },
         {
-          "nombre": "Calca"
+          "nombre": "Calca",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Calca" },
+            { "nombre": "Coya" },
+            { "nombre": "Lamay" },
+            { "nombre": "Lares" },
+            { "nombre": "Písac" },
+            { "nombre": "San Salvador" },
+            { "nombre": "Taray" },
+            { "nombre": "Yanatile" },
+            { "nombre": "amparaes" }
+          ]
         },
         {
-          "nombre": "Canas"
+          "nombre": "Canas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yanaoca" },
+            { "nombre": "Checca" },
+            { "nombre": "Kunturkanki" },
+            { "nombre": "Langui" },
+            { "nombre": "Layo" },
+            { "nombre": "Pampamarca" },
+            { "nombre": "Quehue" },
+            { "nombre": "Túpac Amaru" }
+          ]
         },
         {
-          "nombre": "Canchis"
+          "nombre": "Canchis",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Sicuani" },
+            { "nombre": "Checacupe" },
+            { "nombre": "Combapata" },
+            { "nombre": "Maranganí" },
+            { "nombre": "Pitumarca" },
+            { "nombre": "San Pablo" },
+            { "nombre": "San Pedro" },
+            { "nombre": "Tinta" }
+          ]
         },
         {
-          "nombre": "Chumbivilcas"
+          "nombre": "Chumbivilcas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Santo Tomás" },
+            { "nombre": "Ccapacmarca" },
+            { "nombre": "Chamaca" },
+            { "nombre": "Colquemarca" },
+            { "nombre": "Livitaca" },
+            { "nombre": "Llusco" },
+            { "nombre": "Quiñota" },
+            { "nombre": "Velille" }
+          ]
         },
         {
-          "nombre": "Espinar"
+          "nombre": "Espinar",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yauri" },
+            { "nombre": "Condoroma" },
+            { "nombre": "Coporaque" },
+            { "nombre": "Ocoruro" },
+            { "nombre": "Pallpata" },
+            { "nombre": "Pichigua" },
+            { "nombre": "Suyckutambo" },
+            { "nombre": "Alto Pichigua" }
+          ]
         },
         {
-          "nombre": "La Convención"
+          "nombre": "La Convención",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Santa Ana" },
+            { "nombre": "Echarate" },
+            { "nombre": "Huayopata" },
+            { "nombre": "Maranura" },
+            { "nombre": "Ocobamba" },
+            { "nombre": "Quellouno" },
+            { "nombre": "Kimbiri" },
+            { "nombre": "Santa Teresa" },
+            { "nombre": "Vilcabamba" },
+            { "nombre": "Pichari" },
+            { "nombre": "Inkawasi" },
+            { "nombre": "Villa Virgen" },
+            { "nombre": "Villa Kintiarina" },
+            { "nombre": "Megantoni" },
+            { "nombre": "Kumpirushiato" },
+            { "nombre": "Cielopunco" },
+            { "nombre": "Manitea" },
+            { "nombre": "Unión Asháninca" },
+            { "nombre": "Tambo del Ene" }
+          ]
         },
         {
-          "nombre": "Paruro"
+          "nombre": "Paruro",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Paruro" },
+            { "nombre": "Accha" },
+            { "nombre": "Ccapi" },
+            { "nombre": "Colcha" },
+            { "nombre": "Huanoquite" },
+            { "nombre": "Omacha" },
+            { "nombre": "Paccaritambo" },
+            { "nombre": "Pillpinto" },
+            { "nombre": "Yaurisque" }
+          ]
         },
         {
-          "nombre": "Paucartambo"
+          "nombre": "Paucartambo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Paucartambo" },
+            { "nombre": "Caicay" },
+            { "nombre": "Challabamba" },
+            { "nombre": "Colquepata" },
+            { "nombre": "Kosñipata" },
+            { "nombre": "Huancarani" }
+          ]
         },
         {
-          "nombre": "Quispicanchi"
+          "nombre": "Quispicanchi",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Camanti" },
+            { "nombre": "Andahuaylillas" },
+            { "nombre": "Ccarhuayo" },
+            { "nombre": "Ccatca" },
+            { "nombre": "Cusipata" },
+            { "nombre": "Huaro" },
+            { "nombre": "Lucre" },
+            { "nombre": "Marcapata" },
+            { "nombre": "Ocongate" },
+            { "nombre": "Oropesa" },
+            { "nombre": "Quiquijana" },
+            { "nombre": "Urcos" }
+          ]
         },
         {
-          "nombre": "Urubamba"
+          "nombre": "Urubamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chinchero" },
+            { "nombre": "Huayllabamba" },
+            { "nombre": "Machupicchu" },
+            { "nombre": "Maras" },
+            { "nombre": "Ollantaytambo" },
+            { "nombre": "Urubamba" },
+            { "nombre": "Yucay" }
+          ]
         }
       ]
     },

@@ -14,7 +14,7 @@ const getPeruProvincias = (req, res) => {
 
 const getPeruDistritos = (req, res) => {
   const departamento = req.body.departamento;
-  const provincia = req.params.provincia;
+  const provincia = req.params.provincia.replace("&", " ");
 
   for (const key in data.departamentos) {
     if (data.departamentos[key]["nombre"].toLowerCase() === departamento) {
@@ -22,7 +22,6 @@ const getPeruDistritos = (req, res) => {
 
       for (const key in provincias) {
         if (provincias[key].nombre.toLowerCase() === provincia)
-          // console.log(provincias[key]["distritos"]);
           res.json(provincias[key]["distritos"]);
       }
     }
