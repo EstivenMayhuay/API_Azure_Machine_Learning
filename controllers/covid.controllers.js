@@ -2,7 +2,8 @@ const fetch = require("node-fetch");
 const data = require("../peru.json");
 
 const getPeruProvincias = (req, res) => {
-  const departamento = req.params.departamento;
+  const departamento = req.params.departamento.replace("&", " ");
+
   for (const key in data.departamentos) {
     if (
       data.departamentos[key]["nombre"].toLocaleLowerCase() === departamento
@@ -13,13 +14,12 @@ const getPeruProvincias = (req, res) => {
 };
 
 const getPeruDistritos = (req, res) => {
-  const departamento = req.body.departamento;
+  const departamento = req.body.departamento.toLowerCase();
   const provincia = req.params.provincia.replace("&", " ");
 
   for (const key in data.departamentos) {
     if (data.departamentos[key]["nombre"].toLowerCase() === departamento) {
       const provincias = data.departamentos[key]["provincias"];
-
       for (const key in provincias) {
         if (provincias[key].nombre.toLowerCase() === provincia)
           res.json(provincias[key]["distritos"]);
