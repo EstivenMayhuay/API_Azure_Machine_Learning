@@ -2353,6 +2353,195 @@
           ]
         }
       ]
+    },
+    {
+      "nombre": "Loreto",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Maynas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Iquitos" },
+            { "nombre": "Alto Nanay" },
+            { "nombre": "Fernando Lores" },
+            { "nombre": "Indiana" },
+            { "nombre": "Las Amazonas" },
+            { "nombre": "Mazán" },
+            { "nombre": "Napo" },
+            { "nombre": "Punchana" },
+            { "nombre": "Torres Causana" },
+            { "nombre": "Belén" },
+            { "nombre": "San Juan Bautista" }
+          ]
+        },
+        {
+          "nombre": "Alto Amazonas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yurimaguas" },
+            { "nombre": "Balsapuerto" },
+            { "nombre": "Jéberos" },
+            { "nombre": "Lagunas" },
+            { "nombre": "Santa Cruz" },
+            { "nombre": "Teniente César López Rojas" }
+          ]
+        },
+        {
+          "nombre": "Datem del Marañón",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Barranca" },
+            { "nombre": "Cahuapanas" },
+            { "nombre": "Manseriche" },
+            { "nombre": "Morona" },
+            { "nombre": "Pastaza" },
+            { "nombre": "Andoas" }
+          ]
+        },
+        {
+          "nombre": "Loreto",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Nauta" },
+            { "nombre": "Parinari" },
+            { "nombre": "Tigre" },
+            { "nombre": "Trompeteros" },
+            { "nombre": "Urarinas" }
+          ]
+        },
+        {
+          "nombre": "Mariscal Ramón Castilla",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ramón Castilla" },
+            { "nombre": "Pebas" },
+            { "nombre": "San Pablo" },
+            { "nombre": "Yavarí" }
+          ]
+        },
+        {
+          "nombre": "Putumayo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Putumayo" },
+            { "nombre": "Rosa Panduro" },
+            { "nombre": "Yaguas" },
+            { "nombre": "Teniente Manuel Clavero" }
+          ]
+        },
+        {
+          "nombre": "Requena",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Requena" },
+            { "nombre": "Alto Tapiche" },
+            { "nombre": "Capelo" },
+            { "nombre": "Emilio San Martín" },
+            { "nombre": "Maquía" },
+            { "nombre": "Puinahua" },
+            { "nombre": "Saquena" },
+            { "nombre": "Soplín" },
+            { "nombre": "Tapiche" },
+            { "nombre": "Jenaro Herrera" },
+            { "nombre": "Yaquerana" }
+          ]
+        },
+        {
+          "nombre": "Ucayali",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Contamana" },
+            { "nombre": "Inahuaya" },
+            { "nombre": "Padre Márquez" },
+            { "nombre": "Pampa Hermosa" },
+            { "nombre": "Sarayacu" },
+            { "nombre": "Vargas " }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Madre de Dios",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Tambopata",
+          "provincias": [
+            { "nombre": "" },
+            { "nombre": "Tambopata" },
+            { "nombre": "Inambari" },
+            { "nombre": "Las Piedras" },
+            { "nombre": "Laberinto" }
+          ]
+        },
+        {
+          "nombre": "Manu",
+          "provincias": [
+            { "nombre": "" },
+            { "nombre": "Manu" },
+            { "nombre": "Fitzcarrald" },
+            { "nombre": "Madre de Dios" },
+            { "nombre": "Huepetuhe" }
+          ]
+        },
+        {
+          "nombre": "Tahuamanu",
+          "provincias": [
+            { "nombre": "" },
+            { "nombre": " Iñapari" },
+            { "nombre": " Iberia" },
+            { "nombre": " Tahuamanu" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Moquegua",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Mariscal Nieto",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Moquegua" },
+            { "nombre": "Carumas" },
+            { "nombre": "Cuchumbaya" },
+            { "nombre": "Samegua" },
+            { "nombre": "San Cristóbal de Calacoa" },
+            { "nombre": "Torata" },
+            { "nombre": "San Antonio" }
+          ]
+        },
+        {
+          "nombre": "General Sánchez Cerro",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": " Omate" },
+            { "nombre": " Chojata" },
+            { "nombre": " Coalaque" },
+            { "nombre": " Ichuña" },
+            { "nombre": " La Capilla" },
+            { "nombre": " Lloque" },
+            { "nombre": " Matalaque" },
+            { "nombre": " Puquina" },
+            { "nombre": " Quinistaquillas" },
+            { "nombre": " Ubinas" },
+            { "nombre": " Yunga" }
+          ]
+        },
+        {
+          "nombre": "Ilo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ilo" },
+            { "nombre": "El Algarrobal" },
+            { "nombre": "Pacocha" }
+          ]
+        }
+      ]
     }
   ]
 }
