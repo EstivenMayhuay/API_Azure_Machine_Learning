@@ -2542,6 +2542,664 @@
           ]
         }
       ]
+    },
+    {
+      "nombre": "Pasco",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Pasco",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chaupimarca" },
+            { "nombre": "Huachón" },
+            { "nombre": "Huariaca" },
+            { "nombre": "Huayllay" },
+            { "nombre": "Ninacaca" },
+            { "nombre": "Pallanchacra" },
+            { "nombre": "Paucartambo" },
+            { "nombre": "San Francisco de Asís de Yarusyacán" },
+            { "nombre": "Simón Bolívar" },
+            { "nombre": "Ticlacayán" },
+            { "nombre": "Tinyahuarco" },
+            { "nombre": "Vicco" },
+            { "nombre": "Yanacancha" }
+          ]
+        },
+        {
+          "nombre": "Daniel Alcides Carrión",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yanahuanca" },
+            { "nombre": "Chacayán" },
+            { "nombre": "Goyllarisquizga" },
+            { "nombre": "Páucar" },
+            { "nombre": "San Pedro de Pillao" },
+            { "nombre": "Santa Ana de Tusi" },
+            { "nombre": "Tápuc" },
+            { "nombre": "Vilcabamba" }
+          ]
+        },
+        {
+          "nombre": "Oxapampa",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Oxapampa" },
+            { "nombre": "Chontabamba" },
+            { "nombre": "Constitución" },
+            { "nombre": "Huancabamba" },
+            { "nombre": "Palcazú" },
+            { "nombre": "Pozuzo" },
+            { "nombre": "Puerto Bermúdez" },
+            { "nombre": "Villa Rica" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Piura",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Piura",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Piura" },
+            { "nombre": "Castilla" },
+            { "nombre": "Catacaos" },
+            { "nombre": "Cura Mori" },
+            { "nombre": "El Tallán" },
+            { "nombre": "La Arena" },
+            { "nombre": "La Unión" },
+            { "nombre": "Las Lomas" },
+            { "nombre": "Tambogrande" },
+            { "nombre": "Veinteséis de Octubre" }
+          ]
+        },
+        {
+          "nombre": "Ayabaca",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ayabaca" },
+            { "nombre": "Frías" },
+            { "nombre": "Jililí" },
+            { "nombre": "Lagunas" },
+            { "nombre": "Montero" },
+            { "nombre": "Pacaipampa" },
+            { "nombre": "Paimas" },
+            { "nombre": "Sapillica" },
+            { "nombre": "Sícchez" },
+            { "nombre": "Suyo" },
+            { "nombre": "Tablas" }
+          ]
+        },
+        {
+          "nombre": "Huancabamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huancabamba" },
+            { "nombre": "Canchaque" },
+            { "nombre": "El Carmen de la Frontera" },
+            { "nombre": "Huarmaca" },
+            { "nombre": "Lalaquiz" },
+            { "nombre": "San Miguel de El Faique" },
+            { "nombre": "Sóndor" },
+            { "nombre": "Sondorillo" }
+          ]
+        },
+        {
+          "nombre": "Morropón",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Chulucanas" },
+            { "nombre": "Buenos Aires" },
+            { "nombre": "Chalaco" },
+            { "nombre": "La Matanza" },
+            { "nombre": "Morropón" },
+            { "nombre": "Salitral" },
+            { "nombre": "San Juan de Bigote" },
+            { "nombre": "Santa Catalina de Mossa" },
+            { "nombre": "Santo Domingo" },
+            { "nombre": "Yamango" }
+          ]
+        },
+        {
+          "nombre": "Paita",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": " Paita" },
+            { "nombre": " Amotape" },
+            { "nombre": " Colán" },
+            { "nombre": " El Arenal" },
+            { "nombre": " La Huaca" },
+            { "nombre": " Tamarindo" },
+            { "nombre": " Vichayal" }
+          ]
+        },
+        {
+          "nombre": "Sechura",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Sechura" },
+            { "nombre": "Bellavista de la Unión" },
+            { "nombre": "Bernal" },
+            { "nombre": "Cristo Nos Valga" },
+            { "nombre": "Rinconada-Llícuar" },
+            { "nombre": "Vice" }
+          ]
+        },
+        {
+          "nombre": "Sullana",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Sullana" },
+            { "nombre": "Bellavista" },
+            { "nombre": "Marcavelica" },
+            { "nombre": "Salitral" },
+            { "nombre": "Querecotillo" },
+            { "nombre": "Lancones" },
+            { "nombre": "Ignacio Escudero" },
+            { "nombre": "Miguel Checa" }
+          ]
+        },
+        {
+          "nombre": "Talara",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Pariñas" },
+            { "nombre": "El Alto" },
+            { "nombre": "La Brea" },
+            { "nombre": "Lobitos" },
+            { "nombre": "Los Órganos" },
+            { "nombre": "Máncora" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Puno",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Puno",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ácora" },
+            { "nombre": "Amantaní" },
+            { "nombre": "Atuncolla" },
+            { "nombre": "Capachica" },
+            { "nombre": "Chucuito" },
+            { "nombre": "Coata" },
+            { "nombre": "Huata" },
+            { "nombre": "Mañazo" },
+            { "nombre": "Paucarcolla" },
+            { "nombre": "Pichacani" },
+            { "nombre": "Platería" },
+            { "nombre": "Puno" },
+            { "nombre": "San Antonio" },
+            { "nombre": "Tiquillaca" },
+            { "nombre": "Vilque" }
+          ]
+        },
+        {
+          "nombre": "Azángaro",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Azángaro" },
+            { "nombre": "Achaya" },
+            { "nombre": "Arapa" },
+            { "nombre": "Asillo" },
+            { "nombre": "Caminaca" },
+            { "nombre": "Chupa" },
+            { "nombre": "José Domingo Choquehuanca" },
+            { "nombre": "Muñani" },
+            { "nombre": "Potoni" },
+            { "nombre": "Samán" },
+            { "nombre": "San Antón" },
+            { "nombre": "San José" },
+            { "nombre": "San Juan de Salinas" },
+            { "nombre": "Santiago de Pupuja" },
+            { "nombre": "Tirapata" }
+          ]
+        },
+        {
+          "nombre": "Carabaya",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ajoyani" },
+            { "nombre": "Ayapata" },
+            { "nombre": "Coasa" },
+            { "nombre": "Corani" },
+            { "nombre": "Crucero" },
+            { "nombre": "Ituata" },
+            { "nombre": "Macusani" },
+            { "nombre": "Ollachea" },
+            { "nombre": "San Gabán" },
+            { "nombre": "Usicayos" }
+          ]
+        },
+        {
+          "nombre": "Chucuito",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Juli" },
+            { "nombre": "Desaguadero" },
+            { "nombre": "Huacullani" },
+            { "nombre": "Kelluyo" },
+            { "nombre": "Pisacoma" },
+            { "nombre": "Pomata" },
+            { "nombre": "Zepita" }
+          ]
+        },
+        {
+          "nombre": "El Collao",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Capaso" },
+            { "nombre": "Conduriri" },
+            { "nombre": "Ilave" },
+            { "nombre": "Pilcuyo" },
+            { "nombre": "Santa Rosa" }
+          ]
+        },
+        {
+          "nombre": "Huancané",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Huancané" },
+            { "nombre": "Pusi" },
+            { "nombre": "Vilque Chico" },
+            { "nombre": "Taraco" },
+            { "nombre": "Huatasani" },
+            { "nombre": "Inchupalla" },
+            { "nombre": "Rosaspata" },
+            { "nombre": "Cojata" }
+          ]
+        },
+        {
+          "nombre": "Lampa",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cabanilla" },
+            { "nombre": "Calapuja" },
+            { "nombre": "Lampa" },
+            { "nombre": "Nicasio" },
+            { "nombre": "Ocuviri" },
+            { "nombre": "Palca" },
+            { "nombre": "Paratía" },
+            { "nombre": "Pucará" },
+            { "nombre": "Santa Lucía" },
+            { "nombre": "Vilavila" }
+          ]
+        },
+        {
+          "nombre": "Melgar",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Antauta" },
+            { "nombre": "Ayaviri" },
+            { "nombre": "Cupi" },
+            { "nombre": "Llalli" },
+            { "nombre": "Macari" },
+            { "nombre": "Nuñoa" },
+            { "nombre": "Orurillo" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Umachiri" }
+          ]
+        },
+        {
+          "nombre": "Moho",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Conima" },
+            { "nombre": "Huayrapata" },
+            { "nombre": "Moho" },
+            { "nombre": "Tilali" }
+          ]
+        },
+        {
+          "nombre": "San Antonio de Putina",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ananea" },
+            { "nombre": "Pedro Vilca Apaza" },
+            { "nombre": "Putina" },
+            { "nombre": "Quilcapuncu" },
+            { "nombre": "Sina" }
+          ]
+        },
+        {
+          "nombre": "San Román",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Cabana" },
+            { "nombre": "Cabanillas" },
+            { "nombre": "Caracoto" },
+            { "nombre": "Juliaca" },
+            { "nombre": "San Miguel" }
+          ]
+        },
+        {
+          "nombre": "Sandia",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Alto Inambari" },
+            { "nombre": "Cuyocuyo" },
+            { "nombre": "Limbani" },
+            { "nombre": "Patambuco" },
+            { "nombre": "Quiaca" },
+            { "nombre": "Phara" },
+            { "nombre": "San Pedro de Putina Punco" },
+            { "nombre": "Sandia" },
+            { "nombre": "Yanahuaya" },
+            { "nombre": "San Juan del Oro" }
+          ]
+        },
+        {
+          "nombre": "Yunguyo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Yunguyo" },
+            { "nombre": "Anapia" },
+            { "nombre": "Copani" },
+            { "nombre": "Cuturapi" },
+            { "nombre": "Ollaraya" },
+            { "nombre": "Tinicachi" },
+            { "nombre": "Unicachi" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "San Martin",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Moyobamba",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Moyobamba" },
+            { "nombre": "Calzada" },
+            { "nombre": "Habana" },
+            { "nombre": "Jepelacio" },
+            { "nombre": "Soritor" },
+            { "nombre": "Yantaló" }
+          ]
+        },
+        {
+          "nombre": "Bellavista",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Bellavista" },
+            { "nombre": "Alto Biavo" },
+            { "nombre": "Bajo Biavo" },
+            { "nombre": "Huallaga" },
+            { "nombre": "San Pablo" },
+            { "nombre": "San Rafael" }
+          ]
+        },
+        {
+          "nombre": "El Dorado",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "San José de Sisa" },
+            { "nombre": "Agua Blanca" },
+            { "nombre": "San Martín" },
+            { "nombre": "Santa Rosa" },
+            { "nombre": "Shatoja" }
+          ]
+        },
+        {
+          "nombre": "Huallaga",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Saposoa" },
+            { "nombre": "Alto Saposoa" },
+            { "nombre": "El Eslabón" },
+            { "nombre": "Piscoyacu" },
+            { "nombre": "Sacanche" },
+            { "nombre": "Tingo de Saposoa" }
+          ]
+        },
+        {
+          "nombre": "Lamas",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Lamas" },
+            { "nombre": "Alonso de Alvarado" },
+            { "nombre": "Barranquita" },
+            { "nombre": "Caynarachi" },
+            { "nombre": "Cuñumbuqui" },
+            { "nombre": "Pinto Recodo" },
+            { "nombre": "Rumisapa" },
+            { "nombre": "San Roque de Cumbaza" },
+            { "nombre": "Shanao" },
+            { "nombre": "Tabalosos" },
+            { "nombre": "Zapatero" }
+          ]
+        },
+        {
+          "nombre": "Mariscal Cáceres",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Juanjuí" },
+            { "nombre": "Campanilla" },
+            { "nombre": "Huicungo" },
+            { "nombre": "Pachiza" },
+            { "nombre": "Pajarillo" }
+          ]
+        },
+        {
+          "nombre": "Picota",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Picota" },
+            { "nombre": "Buenos Aires" },
+            { "nombre": "Caspizapa" },
+            { "nombre": "Pilluana" },
+            { "nombre": "Pucacaca" },
+            { "nombre": "San Cristóbal" },
+            { "nombre": "San Hilarión" },
+            { "nombre": "Shamboyacu" },
+            { "nombre": "Tingo de Ponasa" },
+            { "nombre": "Tres Unidos" }
+          ]
+        },
+        {
+          "nombre": "Rioja",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Rioja" },
+            { "nombre": "Awajún" },
+            { "nombre": "Elias Soplin Vargas" },
+            { "nombre": "Nueva Cajamarca" },
+            { "nombre": "Pardo Miguel" },
+            { "nombre": "Pósic" },
+            { "nombre": "San Fernando" },
+            { "nombre": "Yorongos" },
+            { "nombre": "Yuracyacu" }
+          ]
+        },
+        {
+          "nombre": "San Martín",
+          "distritos": [
+            { "nombre": " " },
+            { "nombre": "Tarapoto" },
+            { "nombre": "Alberto Leveau" },
+            { "nombre": "Cacatachi" },
+            { "nombre": "Chazuta" },
+            { "nombre": "Chipurana" },
+            { "nombre": "El Porvenir" },
+            { "nombre": "Huimbayoc" },
+            { "nombre": "Juan Guerra" },
+            { "nombre": "La Banda de Shilcayo" },
+            { "nombre": "Morales" },
+            { "nombre": "Papaplaya" },
+            { "nombre": "San Antonio" },
+            { "nombre": "Sauce" },
+            { "nombre": "Shapaja" }
+          ]
+        },
+        {
+          "nombre": "Tocache",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Tocache" },
+            { "nombre": "Nuevo Progreso" },
+            { "nombre": "Pólvora" },
+            { "nombre": "Santa Lucía" },
+            { "nombre": "Shunté" },
+            { "nombre": "Uchiza" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tacna",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Tacna",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Tacna" },
+            { "nombre": "Alto de la Alianza" },
+            { "nombre": "Palca" },
+            { "nombre": "Calana" },
+            { "nombre": "Ciudad Nueva" },
+            { "nombre": "Coronel Gregorio Albarracín Lanchipa" },
+            { "nombre": "Inclán" },
+            { "nombre": "La Yarada-Los Palos" },
+            { "nombre": "Pachía" },
+            { "nombre": "Pocollay" },
+            { "nombre": "Sama" }
+          ]
+        },
+        {
+          "nombre": "Candarave",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Candarave" },
+            { "nombre": "Cairani" },
+            { "nombre": "Camilaca" },
+            { "nombre": "Curibaya" },
+            { "nombre": "Huanuara" },
+            { "nombre": "Quilahuani" }
+          ]
+        },
+        {
+          "nombre": "Jorge Basadre",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Ilabaya" },
+            { "nombre": "Ite" },
+            { "nombre": "Locumba" }
+          ]
+        },
+        {
+          "nombre": "Tarata",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Tarata" },
+            { "nombre": "Estique" },
+            { "nombre": "Estique Pampa" },
+            { "nombre": "Héroes Albarracín" },
+            { "nombre": "Sitajara" },
+            { "nombre": "Susapaya" },
+            { "nombre": "Tarucachi" },
+            { "nombre": "Ticaco" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tumbes",
+      "provincias": [
+        {
+          "nombre": ""
+        },
+        {
+          "nombre": "Tumbes",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Tumbes" },
+            { "nombre": "Corrales" },
+            { "nombre": "La Cruz" },
+            { "nombre": "Pampas de Hospital" },
+            { "nombre": "San Jacinto" },
+            { "nombre": "San Juan de la Virgen" }
+          ]
+        },
+        {
+          "nombre": "Contralmirante Villar",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Canoas de Punta Sal" },
+            { "nombre": "Casitas" },
+            { "nombre": "Zorritos" }
+          ]
+        },
+        {
+          "nombre": "Zarumilla",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Zarumilla" },
+            { "nombre": "Aguas Verdes" },
+            { "nombre": "Papayal" },
+            { "nombre": "Matapalo" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ucayali",
+      "provincias": [
+        { "nombre": "" },
+        {
+          "nombre": "Coronel Portillo",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Callería" },
+            { "nombre": "Campoverde" },
+            { "nombre": "Iparía" },
+            { "nombre": "Masisea" },
+            { "nombre": "Yarinacocha" },
+            { "nombre": "Nueva Requena" },
+            { "nombre": "Manantay" }
+          ]
+        },
+        {
+          "nombre": "Atalaya",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Raimondi" },
+            { "nombre": "Sepahua" },
+            { "nombre": "Tahuanía" },
+            { "nombre": "Yuruá" }
+          ]
+        },
+        {
+          "nombre": "Padre Abad",
+          "distritos": [
+            { "nombre": "" },
+            { "nombre": "Padre Abad" },
+            { "nombre": "Huipoca​" },
+            { "nombre": "Boquerón" },
+            { "nombre": "Irázola" },
+            { "nombre": "Curimaná" },
+            { "nombre": "Alexander von Humboldt" },
+            { "nombre": "Neshuya" }
+          ]
+        },
+        {
+          "nombre": "Purús",
+          "distritos": [{ "nombre": "" }, { "nombre": "Purús" }]
+        }
+      ]
     }
   ]
 }
