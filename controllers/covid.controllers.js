@@ -143,6 +143,7 @@ const getCovidResult = (req, res) => {
       const data = JSON.parse(body);
       const value = data.Results.output1.value.Values[0];
       const covidObj = {
+        nombre: nombre,
         edad: value[0],
         sexo: value[1],
         positividad: value[2],
